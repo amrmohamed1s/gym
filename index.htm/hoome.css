@@ -1,0 +1,11 @@
+body{background-repeat:repeat;
+background-size: cover;
+height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.x{
+    height: 120vh;
+}
